@@ -62,17 +62,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Stack | Highlight |
-|---|---|---|
-| [AI-Powered Code Reviewer](https://github.com/williamgladston/ai-code-optimization) | MERN, Gemini API, JWT | Cut manual review time by 40% across 200+ evaluations |
-| [Real-Time Collaboration App](https://github.com/williamgladston/IDE-real-time-collabration) | React, Node.js, WebSocket | Bidirectional live sync for concurrent multi-user sessions |
-| [File Sharing App (Inshare)](https://github.com/williamgladston/Inshare-File-sharing) | Node.js, Express, MongoDB, Multer | Secure transfers with 24-hour link expiration |
-| [Bank Transaction System](https://github.com/williamgladston/backend-ledger-new) | Node.js, Express, MongoDB | Handled 1,000+ simulated transactions, 40% fewer inconsistencies |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
