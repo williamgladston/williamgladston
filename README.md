@@ -1,31 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20William%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-<a href="https://www.linkedin.com/in/v-william-gladston-8a69272b7/">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-4FA79E?style=for-the-badge" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/AI/ML%20for%20IoT%20Security-BITS%20Pilani-blueviolet?style=for-the-badge" />
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4FA79E&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps+with+MERN;Researching+AI-driven+IoT+security;Turning+ideas+into+shipped+products" />
-
-<a href="mailto:williamgladston4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/v-william-gladston-8a69272b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://williamgladston.github.io/win-xp/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=williamgladston&style=for-the-badge&color=4FA79E" />
-
-</div>
-
-<br>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20William%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> <p> <a href="https://www.linkedin.com/in/v-william-gladston-8a69272b7/"><img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-4FA79E?style=for-the-badge" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/AI/ML%20for%20IoT%20Security-BITS%20Pilani-blueviolet?style=for-the-badge" /></a> </p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4FA79E&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps+with+MERN;Researching+AI-driven+IoT+security;Turning+ideas+into+shipped+products" /> <p> <a href="mailto:williamgladston4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/v-william-gladston-8a69272b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://williamgladston.github.io/win-xp/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p> <img src="https://komarev.com/ghpvc/?username=williamgladston&style=for-the-badge&color=4FA79E" /> </div> <br>
 
 ## 🧭 About Me
 
